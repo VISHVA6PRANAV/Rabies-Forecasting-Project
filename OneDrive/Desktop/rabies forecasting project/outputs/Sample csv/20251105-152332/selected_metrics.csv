@@ -1,0 +1,11 @@
+algorithm,accuracy,f1_score
+Logistic Regression,0.78,0.57
+Random Forest,0.86,0.8
+Support Vector Machine,0.83,0.77
+Decision Tree,0.8,0.71
+K-Nearest Neighbors,0.76,0.66
+Naive Bayes,0.74,0.65
+XGBoost,0.89,0.86
+LightGBM,0.88,0.85
+GCN,0.82,0.73
+GAT,0.84,0.76

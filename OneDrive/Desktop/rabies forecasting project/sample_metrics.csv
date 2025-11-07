@@ -1,0 +1,4 @@
+algorithm,accuracy,precision,recall,f1_score
+Logistic Regression,0.78,0.6,0.55,0.57
+Random Forest,0.86,0.81,0.79,0.8
+GCN,0.82,0.75,0.72,0.73
